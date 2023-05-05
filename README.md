@@ -12,3 +12,5 @@ This project implements a custom printf function that mimics the behavior of the
 - make clean - Deletes all the resulting object files
 - make fclean - Deletes libftprintf.a and all the resulting object files
 - make re - Deletes everything (object files and libftprintf.a) and rebuilds libftprintf.a
+## Notice
+This project follows the 42School coding standard, which may result in unusual implementation choices. While efforts have been made to optimize certain areas, there is always room for improvement.
